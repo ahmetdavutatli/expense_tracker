@@ -1,0 +1,6 @@
+{
+    "load_system_dawg": false,
+    "load_freq_dawg": false,
+    "user_patterns_file": "",
+    "user_words_file": ""
+}
